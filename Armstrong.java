@@ -1,6 +1,6 @@
 /*Write a program to find a given number is Armstrong or not?
 ==> Armstrong number is a number that is equal to the sum of its digits raised to the power of the total number of digits. 
-smaple input=153      sample output: 1^3+5^3+3^3=1+125+27  =153    */
+smaple input=153      sample output: 1^3+5^3+3^3=1+125+27  =153   The given number is not a Armstrong */
 
 import java.util.Scanner;
 
@@ -42,3 +42,4 @@ public class Armstrong
         sc.close();
     }
 }
+
